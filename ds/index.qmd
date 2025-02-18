@@ -1,10 +1,10 @@
 ---
-title: "Notes"
+title: "Data Science and Statistics"
 listing:
-  - id: notes
+  - id: ds
     fields: [title]
     contents: 
-      - "1_overview.qmd"
+      - "1_abtesting.qmd"
     type: table
     sort: false # keep original order
     filter-ui: false
@@ -12,8 +12,8 @@ listing:
     categories: true
 ---
 
-### Notes
 
-::: {#notes}
+
+::: {#ds}
 :::
 

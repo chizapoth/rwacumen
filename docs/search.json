@@ -4,20 +4,139 @@
     "href": "notes/1_overview.html",
     "title": "Overview",
     "section": "",
-    "text": "test"
+    "text": "Industry\nCompany\nMajor data tasks\n\n\n\n\nSocial media\nMeta\nRecommendation, personalisation\n\n\n\nRednote\nRecommendation, personalisation\n\n\nEntertainment\nNetflix\nRecommendation system, personalisation\n\n\n\nSpotify\n\n\n\nE-commerce\nAmazon\nRecommendation system, personalisation\n\n\nSearch engine\nGoogle\n\n\n\nHospitality\nBooking\n\n\n\n\nAirbnb\n\n\n\nFinance\nPayPal\nFraud detection\n\n\n\n\nValue Proposition: What unique value does the company offer?\nRevenue Streams: How does the company make money?\nKey Metrics: What KPIs drive their success?\nData Strategy: How do they leverage data for products, decisions, and operations?\nCompetitive Advantage: How do they maintain their market position? Scalability and Network Effects: How does their value increase with growth?"
   },
   {
     "objectID": "notes/index.html",
     "href": "notes/index.html",
     "title": "Notes",
     "section": "",
-    "text": "Notes\n\n\n\n\n\nTitle\n\n\n\n\n\n\nOverview\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\nOverview\n\n\n\n\nSocial Media\n\n\n\n\nE-commerce\n\n\n\n\nE-commerce\n\n\n\n\nSearch Engine\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Real World Acumen",
     "section": "",
-    "text": "Github\n  \n\n  \n  \nThis is the"
+    "text": "Github\n  \n\n  \n  \nThis is the note repository for learning more about business from top companies in different industries.\nThis is by no means a complete guide. Rather, it is my personal note-taking system. If it helps you in your data science journey, I’d be more than happy.\nPlease create an issue in the GitHub repository if you have any feedback."
+  },
+  {
+    "objectID": "notes/1_overview.html#industries",
+    "href": "notes/1_overview.html#industries",
+    "title": "Overview",
+    "section": "",
+    "text": "Industry\nCompany\nMajor data tasks\n\n\n\n\nSocial media\nMeta\nRecommendation, personalisation\n\n\n\nRednote\nRecommendation, personalisation\n\n\nEntertainment\nNetflix\nRecommendation system, personalisation\n\n\n\nSpotify\n\n\n\nE-commerce\nAmazon\nRecommendation system, personalisation\n\n\nSearch engine\nGoogle\n\n\n\nHospitality\nBooking\n\n\n\n\nAirbnb\n\n\n\nFinance\nPayPal\nFraud detection\n\n\n\n\nValue Proposition: What unique value does the company offer?\nRevenue Streams: How does the company make money?\nKey Metrics: What KPIs drive their success?\nData Strategy: How do they leverage data for products, decisions, and operations?\nCompetitive Advantage: How do they maintain their market position? Scalability and Network Effects: How does their value increase with growth?"
+  },
+  {
+    "objectID": "notes/1_overview.html#relevant-skills",
+    "href": "notes/1_overview.html#relevant-skills",
+    "title": "Overview",
+    "section": "Relevant skills",
+    "text": "Relevant skills\n\nStatistical Modeling: Core for A/B testing, churn modeling, and forecasting.\nCausal Inference: Crucial for understanding the impact of business strategies.\nSurvey Analysis: Applicable to customer feedback and market research.\nTime Series Forecasting: Directly valuable for demand forecasting and financial modeling."
+  },
+  {
+    "objectID": "notes/1_overview.html#resources",
+    "href": "notes/1_overview.html#resources",
+    "title": "Overview",
+    "section": "Resources",
+    "text": "Resources\nKaggle: Data Science Case Studies"
+  },
+  {
+    "objectID": "notes/5_search.html",
+    "href": "notes/5_search.html",
+    "title": "Search Engine",
+    "section": "",
+    "text": "Value Proposition: Free access to information, services, and platforms. Revenue Streams: Ads (Google Ads, YouTube Ads), Cloud services. Key Metrics: Search Queries, Ad Impressions, Cost-per-Click (CPC). Data Strategy: Natural Language Processing (NLP) for search results, predictive models for ad targeting. Your Advantage: Skills from macroeconomic modeling can be applied to forecasting trends and analyzing large-scale user behavior patterns."
+  },
+  {
+    "objectID": "notes/3_ecommerce.html",
+    "href": "notes/3_ecommerce.html",
+    "title": "E-commerce",
+    "section": "",
+    "text": "Value Proposition: One-stop shopping experience with fast delivery and AWS for cloud computing. Revenue Streams: E-commerce sales, AWS, and Prime subscriptions. Key Metrics: Customer Lifetime Value (CLV), Inventory Turnover, AWS Usage Metrics. Data Strategy: Recommender systems, dynamic pricing models, and supply chain optimization. Your Advantage: Background in time series forecasting (e.g., from macroeconomic trends) applies directly to demand prediction and inventory management."
+  },
+  {
+    "objectID": "notes/2_socialmedia.html",
+    "href": "notes/2_socialmedia.html",
+    "title": "Social Media",
+    "section": "",
+    "text": "Value Proposition: Connects people and businesses through social platforms. Revenue Streams: 98% from targeted ads.\nKey Metrics: Daily Active Users (DAU), Ad Click-Through Rates (CTR), Average Revenue per User (ARPU).\nData Strategy: Uses machine learning for ad personalization, recommendation systems, and sentiment analysis.\nYour Advantage: Experience in health and macroeconomics can transfer to analyzing user behavior trends, segmentation models, and A/B testing."
+  },
+  {
+    "objectID": "notes/4_entertainment.html",
+    "href": "notes/4_entertainment.html",
+    "title": "E-commerce",
+    "section": "",
+    "text": "Value Proposition: Personalized streaming content. Revenue Streams: Subscription fees. Key Metrics: Retention Rate, Hours Streamed per User. Data Strategy: Recommender systems, churn modeling, and A/B testing for content optimization. Your Advantage: Experience in statistical modeling for behavior patterns and survey analysis from health statistics."
+  },
+  {
+    "objectID": "ds/index.html",
+    "href": "ds/index.html",
+    "title": "Data Science and Statistics",
+    "section": "",
+    "text": "Title\n\n\n\n\n\n\nAB testing\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "business/index.html",
+    "href": "business/index.html",
+    "title": "Business background",
+    "section": "",
+    "text": "Title\n\n\nDescription\n\n\n\n\n\n\nOverview\n\n\n\n\n\n\n\nSocial Media\n\n\nWith example of Meta and Rednote \n\n\n\n\nE-commerce\n\n\nWith example of Amazon and Alibaba \n\n\n\n\nEntertainment\n\n\nWith example of Netflix and spotify \n\n\n\n\nSearch Engine\n\n\nWith example of Google \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "business/4_entertainment.html",
+    "href": "business/4_entertainment.html",
+    "title": "Entertainment",
+    "section": "",
+    "text": "Value Proposition: Personalized streaming content.\nRevenue Streams: Subscription fees.\nKey Metrics: Retention Rate, Hours Streamed per User.\nData Strategy: Recommender systems, churn modeling, and A/B testing for content optimization.\nYour Advantage: Experience in statistical modeling for behavior patterns and survey analysis from health statistics."
+  },
+  {
+    "objectID": "business/2_socialmedia.html",
+    "href": "business/2_socialmedia.html",
+    "title": "Social Media",
+    "section": "",
+    "text": "Value Proposition: Connects people and businesses through social platforms. Revenue Streams: 98% from targeted ads.\nKey Metrics: Daily Active Users (DAU), Ad Click-Through Rates (CTR), Average Revenue per User (ARPU).\nData Strategy: Uses machine learning for ad personalization, recommendation systems, and sentiment analysis.\nYour Advantage: Experience in health and macroeconomics can transfer to analyzing user behavior trends, segmentation models, and A/B testing."
+  },
+  {
+    "objectID": "business/1_overview.html",
+    "href": "business/1_overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Industry\nCompany\nMajor data tasks\n\n\n\n\nSocial media\nMeta\nRecommendation, personalisation\n\n\n\nRednote\nRecommendation, personalisation\n\n\nEntertainment\nNetflix\nRecommendation system, personalisation\n\n\n\nSpotify\n\n\n\nE-commerce\nAmazon\nRecommendation system, personalisation\n\n\nSearch engine\nGoogle\n\n\n\nHospitality\nBooking\n\n\n\n\nAirbnb\n\n\n\nFinance\nPayPal\nFraud detection\n\n\n\n\nValue Proposition: What unique value does the company offer?\nRevenue Streams: How does the company make money?\nKey Metrics: What KPIs drive their success?\nData Strategy: How do they leverage data for products, decisions, and operations?\nCompetitive Advantage: How do they maintain their market position? Scalability and Network Effects: How does their value increase with growth?"
+  },
+  {
+    "objectID": "business/1_overview.html#industries",
+    "href": "business/1_overview.html#industries",
+    "title": "Overview",
+    "section": "",
+    "text": "Industry\nCompany\nMajor data tasks\n\n\n\n\nSocial media\nMeta\nRecommendation, personalisation\n\n\n\nRednote\nRecommendation, personalisation\n\n\nEntertainment\nNetflix\nRecommendation system, personalisation\n\n\n\nSpotify\n\n\n\nE-commerce\nAmazon\nRecommendation system, personalisation\n\n\nSearch engine\nGoogle\n\n\n\nHospitality\nBooking\n\n\n\n\nAirbnb\n\n\n\nFinance\nPayPal\nFraud detection\n\n\n\n\nValue Proposition: What unique value does the company offer?\nRevenue Streams: How does the company make money?\nKey Metrics: What KPIs drive their success?\nData Strategy: How do they leverage data for products, decisions, and operations?\nCompetitive Advantage: How do they maintain their market position? Scalability and Network Effects: How does their value increase with growth?"
+  },
+  {
+    "objectID": "business/1_overview.html#relevant-skills",
+    "href": "business/1_overview.html#relevant-skills",
+    "title": "Overview",
+    "section": "Relevant skills",
+    "text": "Relevant skills\n\nStatistical Modeling: Core for A/B testing, churn modeling, and forecasting.\nCausal Inference: Crucial for understanding the impact of business strategies.\nSurvey Analysis: Applicable to customer feedback and market research.\nTime Series Forecasting: Directly valuable for demand forecasting and financial modeling."
+  },
+  {
+    "objectID": "business/1_overview.html#resources",
+    "href": "business/1_overview.html#resources",
+    "title": "Overview",
+    "section": "Resources",
+    "text": "Resources\nKaggle: Data Science Case Studies"
+  },
+  {
+    "objectID": "business/3_ecommerce.html",
+    "href": "business/3_ecommerce.html",
+    "title": "E-commerce",
+    "section": "",
+    "text": "Value Proposition: One-stop shopping experience with fast delivery and AWS for cloud computing. Revenue Streams: E-commerce sales, AWS, and Prime subscriptions. Key Metrics: Customer Lifetime Value (CLV), Inventory Turnover, AWS Usage Metrics. Data Strategy: Recommender systems, dynamic pricing models, and supply chain optimization. Your Advantage: Background in time series forecasting (e.g., from macroeconomic trends) applies directly to demand prediction and inventory management."
+  },
+  {
+    "objectID": "business/5_search.html",
+    "href": "business/5_search.html",
+    "title": "Search Engine",
+    "section": "",
+    "text": "Value Proposition: Free access to information, services, and platforms. Revenue Streams: Ads (Google Ads, YouTube Ads), Cloud services. Key Metrics: Search Queries, Ad Impressions, Cost-per-Click (CPC). Data Strategy: Natural Language Processing (NLP) for search results, predictive models for ad targeting. Your Advantage: Skills from macroeconomic modeling can be applied to forecasting trends and analyzing large-scale user behavior patterns."
   }
 ]

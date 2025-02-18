@@ -1,0 +1,29 @@
+---
+title: "Search Engine"
+description: |
+  With example of Google
+#author: "Chi Zhang"
+#date: "2025-01-05"
+#categories: []
+sidebar: false
+code-block-bg: false
+code-block-border-left: true
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: false
+    highlight-style: gruvbox
+---
+
+Value Proposition: Free access to information, services, and platforms.
+Revenue Streams: Ads (Google Ads, YouTube Ads), Cloud services.
+Key Metrics: Search Queries, Ad Impressions, Cost-per-Click (CPC).
+Data Strategy: Natural Language Processing (NLP) for search results, predictive models for ad targeting.
+Your Advantage: Skills from macroeconomic modeling can be applied to forecasting trends and analyzing large-scale user behavior patterns.
+
+
+
+
+

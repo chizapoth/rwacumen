@@ -1,0 +1,32 @@
+---
+title: "Social Media"
+description: |
+  With example of Meta and Rednote
+#author: "Chi Zhang"
+#date: "2025-01-05"
+#categories: []
+sidebar: false
+code-block-bg: false
+code-block-border-left: true
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: false
+    highlight-style: gruvbox
+---
+
+Value Proposition: Connects people and businesses through social platforms.
+Revenue Streams: 98% from targeted ads.
+
+Key Metrics: Daily Active Users (DAU), Ad Click-Through Rates (CTR), Average Revenue per User (ARPU).
+
+Data Strategy: Uses machine learning for ad personalization, recommendation systems, and sentiment analysis.
+
+Your Advantage: Experience in health and macroeconomics can transfer to analyzing user behavior trends, segmentation models, and A/B testing.
+
+
+
+
+

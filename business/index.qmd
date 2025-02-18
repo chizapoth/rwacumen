@@ -1,0 +1,23 @@
+---
+title: "Business background"
+listing:
+  - id: notes
+    fields: [title, description]
+    contents: 
+      - "1_overview.qmd"
+      - "2_socialmedia.qmd"
+      - "3_ecommerce.qmd"
+      - "4_entertainment.qmd"
+      - "5_search.qmd"
+    type: table
+    sort: false # keep original order
+    filter-ui: false
+    sort-ui: false
+    categories: true
+---
+
+
+
+::: {#notes}
+:::
+

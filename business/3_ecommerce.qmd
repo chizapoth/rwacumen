@@ -1,0 +1,29 @@
+---
+title: "E-commerce"
+description: |
+  With example of Amazon and Alibaba
+#author: "Chi Zhang"
+#date: "2025-01-05"
+#categories: []
+sidebar: false
+code-block-bg: false
+code-block-border-left: true
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: false
+    highlight-style: gruvbox
+---
+
+Value Proposition: One-stop shopping experience with fast delivery and AWS for cloud computing.
+Revenue Streams: E-commerce sales, AWS, and Prime subscriptions.
+Key Metrics: Customer Lifetime Value (CLV), Inventory Turnover, AWS Usage Metrics.
+Data Strategy: Recommender systems, dynamic pricing models, and supply chain optimization.
+Your Advantage: Background in time series forecasting (e.g., from macroeconomic trends) applies directly to demand prediction and inventory management.
+
+
+
+
+

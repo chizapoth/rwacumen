@@ -2,7 +2,27 @@
   {
     "listing": "/notes/index.html",
     "items": [
-      "/notes/1_overview.html"
+      "/notes/1_overview.html",
+      "/notes/2_socialmedia.html",
+      "/notes/3_ecommerce.html",
+      "/notes/4_entertainment.html",
+      "/notes/5_search.html"
+    ]
+  },
+  {
+    "listing": "/ds/index.html",
+    "items": [
+      "/ds/1_abtesting.html"
+    ]
+  },
+  {
+    "listing": "/business/index.html",
+    "items": [
+      "/business/1_overview.html",
+      "/business/2_socialmedia.html",
+      "/business/3_ecommerce.html",
+      "/business/4_entertainment.html",
+      "/business/5_search.html"
     ]
   }
 ]

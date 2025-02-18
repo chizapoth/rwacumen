@@ -1,0 +1,33 @@
+---
+title: "Entertainment"
+description: |
+  With example of Netflix and spotify
+#author: "Chi Zhang"
+#date: "2025-01-05"
+#categories: []
+sidebar: false
+code-block-bg: false
+code-block-border-left: true
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: false
+    highlight-style: gruvbox
+---
+
+Value Proposition: Personalized streaming content.
+
+Revenue Streams: Subscription fees.
+
+Key Metrics: Retention Rate, Hours Streamed per User.
+
+Data Strategy: Recommender systems, churn modeling, and A/B testing for content optimization.
+
+Your Advantage: Experience in statistical modeling for behavior patterns and survey analysis from health statistics.
+
+
+
+
+

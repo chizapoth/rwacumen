@@ -13,6 +13,10 @@ about:
 
 ::: {#hero-heading}
 
-This is the 
+This is the note repository for learning more about business from top companies in different industries. 
+
+This is by no means a complete guide. Rather, it is my personal note-taking system. If it helps you in your data science journey, I'd be more than happy.
+
+Please create an issue in the GitHub repository if you have any feedback.
 
 :::

@@ -1,0 +1,64 @@
+---
+title: "Overview"
+description: |
+  
+#author: "Chi Zhang"
+#date: "2025-01-05"
+#categories: []
+sidebar: false
+code-block-bg: false
+code-block-border-left: true
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: false
+    highlight-style: gruvbox
+---
+
+## Industries
+
+
+
+| Industry| Company |Major data tasks | 
+|--|--|--|
+|Social media |Meta |Recommendation, personalisation |
+| |Rednote |Recommendation, personalisation |
+|Entertainment |Netflix |Recommendation system, personalisation |
+| |Spotify | |
+|E-commerce |Amazon |Recommendation system, personalisation  |
+|Search engine |Google | |
+|Hospitality |Booking | |
+| |Airbnb | |
+|Finance |PayPal |Fraud detection |
+
+
+
+* Value Proposition: What unique value does the company offer?
+* Revenue Streams: How does the company make money?
+* Key Metrics: What KPIs drive their success?
+* Data Strategy: How do they leverage data for products, decisions, and operations?
+* Competitive Advantage: How do they maintain their market position?
+Scalability and Network Effects: How does their value increase with growth?
+
+
+## Relevant skills
+
+* Statistical Modeling: Core for A/B testing, churn modeling, and forecasting.
+* Causal Inference: Crucial for understanding the impact of business strategies.
+* Survey Analysis: Applicable to customer feedback and market research.
+* Time Series Forecasting: Directly valuable for demand forecasting and financial modeling.
+
+
+
+## Resources
+
+[Kaggle: Data Science Case Studies](https://www.kaggle.com/discussions/getting-started/357731)
+
+
+
+
+
+
+

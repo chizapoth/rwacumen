@@ -12,14 +12,11 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: business/index.qmd
+        text: Business
 
-      - href: notes/index.qmd
-        text: Notes
-
-      #- href: case_study/index.qmd
-      #  text: Case study
+      - href: ds/index.qmd
+        text: DS & Stat
         
     right: 
       - icon: github
