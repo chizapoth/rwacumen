@@ -1,0 +1,18 @@
+---
+title: "Real World Acumen"
+#image: misc/logo_dan.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/andreaczhang/rwacumen
+---
+
+::: {#hero-heading}
+
+This is the 
+
+:::

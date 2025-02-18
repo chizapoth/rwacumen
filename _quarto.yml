@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd" # this must be here!
+    - "!code_py/"
+    - "!code_r/"
+
+website:
+  page-navigation: true
+  title: "Real World Acumen"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: notes/index.qmd
+        text: Notes
+
+      #- href: case_study/index.qmd
+      #  text: Case study
+        
+    right: 
+      - icon: github
+        href: https://github.com/andreaczhang/rwacumen
+        
+format:
+  html:
+    theme: lux
+    # css: styles.css
+    toc: true
+

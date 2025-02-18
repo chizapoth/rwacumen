@@ -1,0 +1,19 @@
+---
+title: "Notes"
+listing:
+  - id: notes
+    fields: [title]
+    contents: 
+      - "1_overview.qmd"
+    type: table
+    sort: false # keep original order
+    filter-ui: false
+    sort-ui: false
+    categories: true
+---
+
+### Notes
+
+::: {#notes}
+:::
+
