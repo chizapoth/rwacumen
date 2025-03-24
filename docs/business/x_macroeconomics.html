@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Commodity prices and analysis">
 
-<title>Real World Acumen - Data Science and Statistics</title>
+<title>Real World Acumen - Macroeconomics: Commodity</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,65 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-ds .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-ds'] = new List('listing-ds', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -152,7 +93,7 @@ window.Quarto = {
 <span class="menu-text">Business</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../ds/index.html" aria-current="page"> 
+    <a class="nav-link" href="../ds/index.html"> 
 <span class="menu-text">DS &amp; Stat</span></a>
   </li>  
 </ul>
@@ -174,16 +115,39 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#framework" id="toc-framework" class="nav-link active" data-scroll-target="#framework">Framework</a>
+  <ul class="collapse">
+  <li><a href="#price-determination" id="toc-price-determination" class="nav-link" data-scroll-target="#price-determination">Price determination</a></li>
+  <li><a href="#key-players" id="toc-key-players" class="nav-link" data-scroll-target="#key-players">Key players</a></li>
+  <li><a href="#where-are-commodities-traded" id="toc-where-are-commodities-traded" class="nav-link" data-scroll-target="#where-are-commodities-traded">Where are commodities traded</a></li>
+  </ul></li>
+  <li><a href="#case-study-covid-19-and-ukraine-war" id="toc-case-study-covid-19-and-ukraine-war" class="nav-link" data-scroll-target="#case-study-covid-19-and-ukraine-war">Case study: COVID-19 and Ukraine War</a></li>
+  <li><a href="#case-study-usa-china-eu" id="toc-case-study-usa-china-eu" class="nav-link" data-scroll-target="#case-study-usa-china-eu">Case study: USA, China, EU</a>
+  <ul class="collapse">
+  <li><a href="#usa" id="toc-usa" class="nav-link" data-scroll-target="#usa">USA</a></li>
+  <li><a href="#china" id="toc-china" class="nav-link" data-scroll-target="#china">China</a></li>
+  <li><a href="#eu" id="toc-eu" class="nav-link" data-scroll-target="#eu">EU</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data Science and Statistics</h1>
+<h1 class="title">Macroeconomics: Commodity</h1>
 </div>
 
+<div>
+  <div class="description">
+    <p>Commodity prices and analysis</p>
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -198,30 +162,172 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-ds" class="quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table">
+<section id="framework" class="level2">
+<h2 class="anchored" data-anchor-id="framework">Framework</h2>
+<section id="price-determination" class="level3">
+<h3 class="anchored" data-anchor-id="price-determination">Price determination</h3>
+<ul>
+<li>Supply: weather (for agriculture products), mining outputs, geopolitical risks (oil), technology advancements, production costs</li>
+<li>demand: global economic growth, industrial consumption, consumer demand (e.g luxury metals, foods)</li>
+<li>market speculation: traders and investors can drive price fluctuations through future contracts</li>
+<li>macroeconomic conditions: inflation, interest rates, exchange rates</li>
+</ul>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
 <thead>
-<tr>
-<th>
-Title
-</th>
+<tr class="header">
+<th></th>
+<th>Agricultural</th>
+<th>Metals</th>
+<th>Energy</th>
+<th>Livestock</th>
 </tr>
 </thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1742814421580" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="AB testing" data-listing-filename-sort="1_abtesting.qmd">
-<td>
-<a href="../ds/1_abtesting.html" class="title listing-title">AB testing</a>
-</td>
+<tbody>
+<tr class="odd">
+<td>Examples</td>
+<td>Wheat, soybeans, coffee, sugar</td>
+<td>Gold, Silver, Copper, Aluminum</td>
+<td>Crude oil, natural gas, coal</td>
+<td>Cattle, pork, poultry</td>
+</tr>
+<tr class="even">
+<td>Supply</td>
+<td>Weather, crop diseases</td>
+<td>Mining output</td>
+<td>Renewable energy growth</td>
+<td>Feed costs, diseases</td>
+</tr>
+<tr class="odd">
+<td>Demand</td>
+<td>Global demand</td>
+<td>Industrial demand</td>
+<td>Global economic activities</td>
+<td>Consumer preferences</td>
+</tr>
+<tr class="even">
+<td>Macroeconomic</td>
+<td>Government subsidies, trade policies</td>
+<td>Currency strength, geopolitical risks, inflation</td>
+<td>OPEC decisions, geopolitical conflicts</td>
+<td>Trade policies</td>
 </tr>
 </tbody>
 </table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+</section>
+<section id="key-players" class="level3">
+<h3 class="anchored" data-anchor-id="key-players">Key players</h3>
+<ul>
+<li>producers: farmers, miners, oil drillers, manufacturers</li>
+<li>consumers: industries, governments, individuals</li>
+<li>traders</li>
+<li>governments and regulators: entities that impose tariffs, trade restrictions, subsidies that affect commodity supply and pricing</li>
+</ul>
+</section>
+<section id="where-are-commodities-traded" class="level3">
+<h3 class="anchored" data-anchor-id="where-are-commodities-traded">Where are commodities traded</h3>
+<p>Future exchanges</p>
+<ul>
+<li>Chicago mercantile exchange (CME): grains, livestock, energy, metals</li>
+<li>Intercontinental exchange (ICE): oil, gas, coffee, sugar</li>
+<li>London metal exchange (LME): metals</li>
+<li>New York mercantile exchange (NYMEX): crude oil, natural gas, gold, silver</li>
+</ul>
+<p>Spot markets: immediate purchase and delivery</p>
+<p>OTC markets: direct commodity trading between buyers and sellers (common in energy)</p>
+</section>
+</section>
+<section id="case-study-covid-19-and-ukraine-war" class="level2">
+<h2 class="anchored" data-anchor-id="case-study-covid-19-and-ukraine-war">Case study: COVID-19 and Ukraine War</h2>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Factor</th>
+<th>COVID (2020-22)</th>
+<th>Ukraine War (2022-present)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Main impact</td>
+<td>Demand collapse, supply chain issues</td>
+<td>Supply shock, geopolitical risks</td>
+</tr>
+<tr class="even">
+<td>Energy prices</td>
+<td>Crashed initially, then rose</td>
+<td>Spiked due to sanctions and shortages</td>
+</tr>
+<tr class="odd">
+<td>Agriculture</td>
+<td>Supply chain issues, mild price increases</td>
+<td>Major disruptions, severe price hikes</td>
+</tr>
+<tr class="even">
+<td>Metals</td>
+<td>Industrial slowdown affected demand</td>
+<td>Shortage drove up prices</td>
+</tr>
+<tr class="odd">
+<td>Gold</td>
+<td>Spiked during crisis then fell</td>
+<td>Spiked, then stablized</td>
+</tr>
+</tbody>
+</table>
+<p>Energy and agriculture were hit hardest, leading to high inflation worldwide; global food security concerns; metals and fertilizers became more expensive, affecting industrial production and farming costs</p>
+</section>
+<section id="case-study-usa-china-eu" class="level2">
+<h2 class="anchored" data-anchor-id="case-study-usa-china-eu">Case study: USA, China, EU</h2>
+<section id="usa" class="level3">
+<h3 class="anchored" data-anchor-id="usa">USA</h3>
+<p>Major producer of energy and agriculture</p>
+<ul>
+<li>crude oil</li>
+<li>natural gas</li>
+<li>soybeans</li>
+<li>corn</li>
+</ul>
+<p>Importer of metals for manufacturing and technology (semiconductors, EV)</p>
+</section>
+<section id="china" class="level3">
+<h3 class="anchored" data-anchor-id="china">China</h3>
+<p>Large importer and consumer</p>
+<ul>
+<li>oil (70% imported)</li>
+<li>coal</li>
+<li>consumes 50% global copper and steel</li>
+<li>soybean: world’s largest, mainly from US, Brazil</li>
+</ul>
+</section>
+<section id="eu" class="level3">
+<h3 class="anchored" data-anchor-id="eu">EU</h3>
+<p>Heavily commodity-dependent, vulnerable to price shocks</p>
+<p>Energy</p>
+<ul>
+<li>relies on Russia, Middle East and US for oil and gas</li>
+<li>expensive energy drives up costs for industry and consumers, fueling inflation</li>
+</ul>
+<p>Major consumer of industrial metals</p>
+<ul>
+<li>green transition (EV, solar, wind) requires massive amounts of lithium, cobalt, rare earths (China, Africa)</li>
+</ul>
+<p>Major exporter of wheat (France, Germany) but depends on Ukraine and Brazil for corn and soybeans</p>
 
 
-
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

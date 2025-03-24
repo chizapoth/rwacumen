@@ -35,6 +35,7 @@ format:
 
 
 
+
 * Value Proposition: What unique value does the company offer?
 * Revenue Streams: How does the company make money?
 * Key Metrics: What KPIs drive their success?

@@ -81,7 +81,7 @@
     "href": "business/index.html",
     "title": "Business background",
     "section": "",
-    "text": "Title\n\n\nDescription\n\n\n\n\n\n\nOverview\n\n\n\n\n\n\n\nSocial Media\n\n\nWith example of Meta and Rednote \n\n\n\n\nE-commerce\n\n\nWith example of Amazon and Alibaba \n\n\n\n\nEntertainment\n\n\nWith example of Netflix and spotify \n\n\n\n\nSearch Engine\n\n\nWith example of Google \n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\nDescription\n\n\n\n\n\n\nOverview\n\n\n\n\n\n\n\nSocial Media\n\n\nWith example of Meta and Rednote \n\n\n\n\nE-commerce\n\n\nWith example of Amazon and Alibaba \n\n\n\n\nEntertainment\n\n\nWith example of Netflix and spotify \n\n\n\n\nSearch Engine\n\n\nWith example of Google \n\n\n\n\nMacroeconomics: Commodity\n\n\nCommodity prices and analysis \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "business/4_entertainment.html",
@@ -138,5 +138,33 @@
     "title": "Search Engine",
     "section": "",
     "text": "Value Proposition: Free access to information, services, and platforms. Revenue Streams: Ads (Google Ads, YouTube Ads), Cloud services. Key Metrics: Search Queries, Ad Impressions, Cost-per-Click (CPC). Data Strategy: Natural Language Processing (NLP) for search results, predictive models for ad targeting. Your Advantage: Skills from macroeconomic modeling can be applied to forecasting trends and analyzing large-scale user behavior patterns."
+  },
+  {
+    "objectID": "business/x_macroeconomics.html",
+    "href": "business/x_macroeconomics.html",
+    "title": "Macroeconomics: Commodity",
+    "section": "",
+    "text": "Supply: weather (for agriculture products), mining outputs, geopolitical risks (oil), technology advancements, production costs\ndemand: global economic growth, industrial consumption, consumer demand (e.g luxury metals, foods)\nmarket speculation: traders and investors can drive price fluctuations through future contracts\nmacroeconomic conditions: inflation, interest rates, exchange rates\n\n\n\n\n\n\n\n\n\n\n\n\nAgricultural\nMetals\nEnergy\nLivestock\n\n\n\n\nExamples\nWheat, soybeans, coffee, sugar\nGold, Silver, Copper, Aluminum\nCrude oil, natural gas, coal\nCattle, pork, poultry\n\n\nSupply\nWeather, crop diseases\nMining output\nRenewable energy growth\nFeed costs, diseases\n\n\nDemand\nGlobal demand\nIndustrial demand\nGlobal economic activities\nConsumer preferences\n\n\nMacroeconomic\nGovernment subsidies, trade policies\nCurrency strength, geopolitical risks, inflation\nOPEC decisions, geopolitical conflicts\nTrade policies\n\n\n\n\n\n\n\nproducers: farmers, miners, oil drillers, manufacturers\nconsumers: industries, governments, individuals\ntraders\ngovernments and regulators: entities that impose tariffs, trade restrictions, subsidies that affect commodity supply and pricing\n\n\n\n\nFuture exchanges\n\nChicago mercantile exchange (CME): grains, livestock, energy, metals\nIntercontinental exchange (ICE): oil, gas, coffee, sugar\nLondon metal exchange (LME): metals\nNew York mercantile exchange (NYMEX): crude oil, natural gas, gold, silver\n\nSpot markets: immediate purchase and delivery\nOTC markets: direct commodity trading between buyers and sellers (common in energy)"
+  },
+  {
+    "objectID": "business/x_macroeconomics.html#framework",
+    "href": "business/x_macroeconomics.html#framework",
+    "title": "Macroeconomics: Commodity",
+    "section": "",
+    "text": "Supply: weather (for agriculture products), mining outputs, geopolitical risks (oil), technology advancements, production costs\ndemand: global economic growth, industrial consumption, consumer demand (e.g luxury metals, foods)\nmarket speculation: traders and investors can drive price fluctuations through future contracts\nmacroeconomic conditions: inflation, interest rates, exchange rates\n\n\n\n\n\n\n\n\n\n\n\n\nAgricultural\nMetals\nEnergy\nLivestock\n\n\n\n\nExamples\nWheat, soybeans, coffee, sugar\nGold, Silver, Copper, Aluminum\nCrude oil, natural gas, coal\nCattle, pork, poultry\n\n\nSupply\nWeather, crop diseases\nMining output\nRenewable energy growth\nFeed costs, diseases\n\n\nDemand\nGlobal demand\nIndustrial demand\nGlobal economic activities\nConsumer preferences\n\n\nMacroeconomic\nGovernment subsidies, trade policies\nCurrency strength, geopolitical risks, inflation\nOPEC decisions, geopolitical conflicts\nTrade policies\n\n\n\n\n\n\n\nproducers: farmers, miners, oil drillers, manufacturers\nconsumers: industries, governments, individuals\ntraders\ngovernments and regulators: entities that impose tariffs, trade restrictions, subsidies that affect commodity supply and pricing\n\n\n\n\nFuture exchanges\n\nChicago mercantile exchange (CME): grains, livestock, energy, metals\nIntercontinental exchange (ICE): oil, gas, coffee, sugar\nLondon metal exchange (LME): metals\nNew York mercantile exchange (NYMEX): crude oil, natural gas, gold, silver\n\nSpot markets: immediate purchase and delivery\nOTC markets: direct commodity trading between buyers and sellers (common in energy)"
+  },
+  {
+    "objectID": "business/x_macroeconomics.html#case-study-covid-19-and-ukraine-war",
+    "href": "business/x_macroeconomics.html#case-study-covid-19-and-ukraine-war",
+    "title": "Macroeconomics: Commodity",
+    "section": "Case study: COVID-19 and Ukraine War",
+    "text": "Case study: COVID-19 and Ukraine War\n\n\n\n\n\n\n\n\nFactor\nCOVID (2020-22)\nUkraine War (2022-present)\n\n\n\n\nMain impact\nDemand collapse, supply chain issues\nSupply shock, geopolitical risks\n\n\nEnergy prices\nCrashed initially, then rose\nSpiked due to sanctions and shortages\n\n\nAgriculture\nSupply chain issues, mild price increases\nMajor disruptions, severe price hikes\n\n\nMetals\nIndustrial slowdown affected demand\nShortage drove up prices\n\n\nGold\nSpiked during crisis then fell\nSpiked, then stablized\n\n\n\nEnergy and agriculture were hit hardest, leading to high inflation worldwide; global food security concerns; metals and fertilizers became more expensive, affecting industrial production and farming costs"
+  },
+  {
+    "objectID": "business/x_macroeconomics.html#case-study-usa-china-eu",
+    "href": "business/x_macroeconomics.html#case-study-usa-china-eu",
+    "title": "Macroeconomics: Commodity",
+    "section": "Case study: USA, China, EU",
+    "text": "Case study: USA, China, EU\n\nUSA\nMajor producer of energy and agriculture\n\ncrude oil\nnatural gas\nsoybeans\ncorn\n\nImporter of metals for manufacturing and technology (semiconductors, EV)\n\n\nChina\nLarge importer and consumer\n\noil (70% imported)\ncoal\nconsumes 50% global copper and steel\nsoybean: world’s largest, mainly from US, Brazil\n\n\n\nEU\nHeavily commodity-dependent, vulnerable to price shocks\nEnergy\n\nrelies on Russia, Middle East and US for oil and gas\nexpensive energy drives up costs for industry and consumers, fueling inflation\n\nMajor consumer of industrial metals\n\ngreen transition (EV, solar, wind) requires massive amounts of lithium, cobalt, rare earths (China, Africa)\n\nMajor exporter of wheat (France, Germany) but depends on Ukraine and Brazil for corn and soybeans"
   }
 ]

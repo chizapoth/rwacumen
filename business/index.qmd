@@ -9,6 +9,7 @@ listing:
       - "3_ecommerce.qmd"
       - "4_entertainment.qmd"
       - "5_search.qmd"
+      - "x_macroeconomics.qmd"
     type: table
     sort: false # keep original order
     filter-ui: false

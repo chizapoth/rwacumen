@@ -1,0 +1,129 @@
+---
+title: "Macroeconomics: Commodity"
+description: |
+  Commodity prices and analysis
+#author: "Chi Zhang"
+#date: "2025-01-05"
+#categories: []
+sidebar: false
+code-block-bg: false
+code-block-border-left: true
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: false
+    highlight-style: gruvbox
+---
+
+
+## Framework
+
+### Price determination
+
+* Supply: weather (for agriculture products), mining outputs, geopolitical risks (oil), technology advancements, production costs
+* demand: global economic growth, industrial consumption, consumer demand (e.g luxury metals, foods)
+* market speculation: traders and investors can drive price fluctuations through future contracts
+* macroeconomic conditions: inflation, interest rates, exchange rates
+
+
+| |Agricultural |Metals |Energy |Livestock |
+|--|--|--|--|--|
+|Examples |Wheat, soybeans, coffee, sugar |Gold, Silver, Copper, Aluminum |Crude oil, natural gas, coal |Cattle, pork, poultry |
+|Supply |Weather, crop diseases |Mining output |Renewable energy growth |Feed costs, diseases |
+|Demand |Global demand |Industrial demand |Global economic activities |Consumer preferences |
+|Macroeconomic |Government subsidies, trade policies | Currency strength, geopolitical risks, inflation|OPEC decisions, geopolitical conflicts |Trade policies |
+
+
+
+### Key players
+
+* producers: farmers, miners, oil drillers, manufacturers
+* consumers: industries, governments, individuals
+* traders
+* governments and regulators: entities that impose tariffs, trade restrictions, subsidies that affect commodity supply and pricing
+
+### Where are commodities traded
+
+Future exchanges
+
+* Chicago mercantile exchange (CME): grains, livestock, energy, metals
+* Intercontinental exchange (ICE): oil, gas, coffee, sugar
+* London metal exchange (LME): metals
+* New York mercantile exchange (NYMEX): crude oil, natural gas, gold, silver
+
+Spot markets: immediate purchase and delivery
+
+OTC markets: direct commodity trading between buyers and sellers (common in energy)
+
+
+## Case study: COVID-19 and Ukraine War
+
+|Factor |COVID (2020-22) |Ukraine War (2022-present) |
+|--|--|--|
+|Main impact |Demand collapse, supply chain issues |Supply shock, geopolitical risks |
+|Energy prices |Crashed initially, then rose |Spiked due to sanctions and shortages |
+|Agriculture |Supply chain issues, mild price increases |Major disruptions, severe price hikes |
+|Metals |Industrial slowdown affected demand |Shortage drove up prices |
+|Gold |Spiked during crisis then fell |Spiked, then stablized |
+
+
+Energy and agriculture were hit hardest, leading to high inflation worldwide; global food security concerns; metals and fertilizers became more expensive, affecting industrial production and farming costs
+
+
+## Case study: USA, China, EU
+
+### USA
+
+Major producer of energy and agriculture
+
+* crude oil
+* natural gas
+* soybeans
+* corn
+
+Importer of metals for manufacturing and technology (semiconductors, EV)
+
+
+### China 
+
+Large importer and consumer
+
+* oil (70% imported) 
+* coal
+* consumes 50% global copper and steel
+* soybean: world's largest, mainly from US, Brazil
+
+
+### EU
+
+Heavily commodity-dependent, vulnerable to price shocks
+
+Energy
+
+* relies on Russia, Middle East and US for oil and gas
+* expensive energy drives up costs for industry and consumers, fueling inflation
+
+Major consumer of industrial metals
+
+* green transition (EV, solar, wind) requires massive amounts of lithium, cobalt, rare earths (China, Africa)
+
+Major exporter of wheat (France, Germany) but depends on Ukraine and Brazil for corn and soybeans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
